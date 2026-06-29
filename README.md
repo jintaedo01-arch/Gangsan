@@ -1,4 +1,2 @@
-# GangsanSellerAI PRO v0.1
-
-실행:
-python main.py
+# 강산셀러 AI PRO v0.2
+실행: python main.py
