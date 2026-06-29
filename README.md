@@ -1,2 +1,4 @@
-# Gangsan
-내 저장소
+# GangsanSellerAI PRO v0.1
+
+실행:
+python main.py
